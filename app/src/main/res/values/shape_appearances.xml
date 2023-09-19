@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ShapeAppearance.IMDb.SmallComponent.Outlined" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/text_field_radius</item>
+        <item name="boxBackgroundColor">@color/white</item>
+    </style>
+
+    <style name="ShapeAppearance.IMDb.SmallComponent.Filled" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/text_field_radius</item>
+        <item name="boxBackgroundColor">@color/gray_100</item>
+        <item name="boxCornerRadiusBottomEnd">@dimen/text_field_radius</item>
+        <item name="boxCornerRadiusBottomStart">@dimen/text_field_radius</item>
+    </style>
+
+</resources>

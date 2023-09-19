@@ -1,3 +1,66 @@
 <resources>
     <string name="app_name">IMDb</string>
+
+    /*
+    ---Login---
+    */
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password">¿Olvidaste la contraseña?</string>
+    <string name="login">Login</string>
+    <string name="login_with">Ó podes ingresar con</string>
+    <string name="has_account">¿No tenes cuenta?</string>
+    <string name="register">Regístrate</string>
+    <string name="guest">Continuar como invitado</string>
+
+    /*
+    ---Signup---
+    */
+    <string name="create_account">Crear una cuenta</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password_rule">La contraseña debe contener 8 caracteres</string>
+    <string name="accept">Aceptar</string>
+    <string name="finisfh_signup">Finalizar Registro</string>
+    <string name="connect_to_google">Conectalo a tu cuenta de google</string>
+
+    /*
+    ---Navigation buttons---
+    */
+    <string name="home">Inicio</string>
+    <string name="search">Buscar</string>
+    <string name="play">Play</string>
+    <string name="profile">Perfil</string>
+
+    /*
+    ---HomeFragment---
+    */
+    <string name="best_selections">Las mejores selecciones</string>
+
+    /*
+    ---SearchFragment---
+    */
+    <string name="search_hint">Buscar IMDb</string>
+    <string name="chapters_guide">Guía de episodios</string>
+    <string name="add_to_watch_list">Agregar a mi lista de seguimiento</string>
+
+    /*
+    ---Profile---
+    */
+    <string name="watch_list">Lista de seguimiento</string>
+    <string name="create_watch_list">
+        Crea una lista de seguimiento para no perderte ninguna película o serie de tv.
+    </string>
+    <string name="start_watch_list">Empieza tu lista de seguimiento</string>
+    <string name="recently_viewed">Vistas recientes</string>
+    <string name="no_recent">No has visitado ninguna página recientemente.</string>
+    <string name="favorite_people">Personas favoritas</string>
+
+    /*
+    ---Content Description For Images---
+    */
+    <string name="img_facebook">Facebook</string>
+    <string name="img_google">Google</string>
+    <string name="img_apple">Apple</string>
+
 </resources>

@@ -2,15 +2,22 @@
     <!-- Base application theme. -->
     <style name="Theme.IMDb" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_200</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorPrimary">@color/yellow_400</item>
+        <item name="colorPrimaryVariant">@color/yellow_700</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/teal_200</item>
-        <item name="colorSecondaryVariant">@color/teal_200</item>
-        <item name="colorOnSecondary">@color/black</item>
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
-        <!-- Customize your theme here. -->
+        <item name="colorSecondary">@color/gray_500</item>
+        <item name="colorSecondaryVariant">@color/gray_800</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Backgrounds. -->
+        <item name="background">@color/white</item>
+        <item name="colorSurface">@color/gray_100</item>
+        <item name="colorError">@color/deep_orange_900</item>
+        <!-- OnBackgrounds. -->
+        <item name="colorOnBackground">@color/black</item>
+        <item name="colorOnSurface">@color/gray_500</item>
+        <item name="colorOnError">@color/white</item>
+        <!-- Status Bar. -->
+        <item name="android:statusBarColor">@color/yellow_400</item>
     </style>
 </resources>
